@@ -17,4 +17,4 @@ async def fortnite(ctx):
 
     await ctx.send(embed=embed)
 
-bot.run('MTEwMjI3NDYyNjUzODcwOTAzMw.GPY4RH.VrVa9Dz2WqcOeYyxFsE7Qyx6LvQSxMVQDWZYjU')
+bot.run('YOURR_BOT_TOKEN')
